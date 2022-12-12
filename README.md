@@ -1,6 +1,6 @@
 <div align=center>
 	
- ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=PROJECT02&tSize=90&animation=fadeIn&fontAlignY=38&desc=핵심융합프로젝트&descAlign=62)	
+ ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=PROJECT03&tSize=90&animation=fadeIn&fontAlignY=38&desc=핵심융합프로젝트&descAlign=62)	
 </div>
 <div align=center>
 	<h3>CNN과 openCV를 활용한 졸음운전 및 차량 도난 방지 서비스</h3>
@@ -46,10 +46,27 @@
 </div>
 <br><br>
 
+###### 버전 관리 및 협업틀
+- Git을 활용해 소스 코드 백업, 협업 등 효율적인 시간 분배
+
+###### 프론트엔드
+- 부트스트랩 활용 반응형 웹페이지 제작
+
+###### 백엔드
+- Spring을 활용한 웹페이지 서비스 기능 구현
+- JavaScript를 활용하여 웹캠 녹화 및 저장기능 구현
+- Python 기반 딥러닝 라이브러리 활용
+- openCV를 활용한 얼굴 인식 기술 구현
+
+###### 데이터 수집
+- AI-Hub : 졸음 운전 예방을 위한 운전자 상태 정보 영상 데이터
+- Teachable Machine을 활용한 얼굴 데이터(차량 도난)
+- 눈 뜬 이미지 3000장, 눈 감은 이미지 3000장
+
 ###### [ MVC Framework를 활용한 웹서버 구현 ]
 
 - Controller, Model(DTO), View(Jsp) 활용
-- 캠화면 기능, 알림 설정 기능, 개인정보 설정 기능, 도난기록 목록
+- 알림 설정 기능, 개인정보 설정 기능, 도난기록 목록
 
 ![image](https://user-images.githubusercontent.com/107980487/206982215-81951fe9-ca94-4593-be9d-a0d85f7e28d2.png)
 
@@ -57,9 +74,8 @@
 
 ###### [ 딥러닝 cnn모델을 활용하여 사용자 인식 ]
 - 사용자의 얼굴 및 눈 깜빡임/고개 숙임 등으로 인식하도록 학습
-- Chart.js를 활용하여 시각화
-
-![image](https://user-images.githubusercontent.com/107980487/206963941-7f2666bc-fe24-46f1-812d-b41024389fa6.png)
+- video를 활용하여 도난캠과 졸음판단캠 제공
+- python, Flask 활용
 
 <br>
 
@@ -68,14 +84,12 @@
 ###### [ 화면 설계/ 화면 구현 ]
 - HTML/CSS 기반의 정적 페이지 구현
 - JavaScript 기반의 동적 페이지 구현
-- Chart.js 활용하여 시각화
+- video 활용하여 시각화
 <br>
 
 ###### [ 웹 서버 기능 연동 ]
-- Jsp/Servlet, Jstl을 활용한 웹 서버 기능 연동
+- Jsp/Servlet을 활용한 웹 서버 기능 연동
 <br>
 
 ###### [ Oracle DB와 웹 서버 연동 ]
-- MyBATIS를 활용한 데이터베이스 연동
-
-
+- Mysql를 활용한 데이터베이스 연동
