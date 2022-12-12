@@ -77,6 +77,8 @@
 - video를 활용하여 도난캠과 졸음판단캠 제공
 - python, Flask 활용
 
+![image](https://user-images.githubusercontent.com/107980487/207006311-ea94371b-a01b-4761-848c-96be99808648.png)
+
 <br>
 
 ## 3. 서비스 구현
