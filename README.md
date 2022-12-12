@@ -44,10 +44,38 @@
 	<img src="https://user-images.githubusercontent.com/107980487/206974814-a0b86e7d-310b-4162-9fde-34a5639d98cf.png" style="width:8%"/>
  
 </div>
+<br><br>
 
+###### [ MVC Framework를 활용한 웹서버 구현 ]
 
+- Controller, Model(DTO), View(Jsp) 활용
+- 캠화면 기능, 알림 설정 기능, 개인정보 설정 기능, 도난기록 목록
 
+![image](https://user-images.githubusercontent.com/107980487/206982215-81951fe9-ca94-4593-be9d-a0d85f7e28d2.png)
 
+<br>
 
+###### [ 딥러닝 cnn모델을 활용하여 사용자 인식 ]
+- 사용자의 얼굴 및 눈 깜빡임/고개 숙임 등으로 인식하도록 학습
+- Chart.js를 활용하여 시각화
+
+![image](https://user-images.githubusercontent.com/107980487/206963941-7f2666bc-fe24-46f1-812d-b41024389fa6.png)
+
+<br>
+
+## 3. 서비스 구현
+
+###### [ 화면 설계/ 화면 구현 ]
+- HTML/CSS 기반의 정적 페이지 구현
+- JavaScript 기반의 동적 페이지 구현
+- Chart.js 활용하여 시각화
+<br>
+
+###### [ 웹 서버 기능 연동 ]
+- Jsp/Servlet, Jstl을 활용한 웹 서버 기능 연동
+<br>
+
+###### [ Oracle DB와 웹 서버 연동 ]
+- MyBATIS를 활용한 데이터베이스 연동
 
 
