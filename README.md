@@ -42,3 +42,8 @@ JSP/Servlet 으로 웹 페이지를 구성하였고 Kakao Map API, Chart.js, Jav
 	<img src="https://user-images.githubusercontent.com/107980487/206961273-62a2979c-8731-4ce7-856a-4cf16d1752de.png" style="width:8%"/>
  
 </div>
+
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
