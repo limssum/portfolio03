@@ -1,5 +1,6 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=PROJECT02&fontSize=90" />	
+	
+ ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=PROJECT02&tSize=90&animation=fadeIn&fontAlignY=38&desc=핵심융합프로젝트&descAlign=62)	
 </div>
 <div align=center>
 	<h3>CNN과 openCV를 활용한 졸음운전 및 차량 도난 방지 서비스</h3>
@@ -49,4 +50,4 @@
 
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
